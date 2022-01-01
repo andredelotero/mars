@@ -9,7 +9,8 @@ export const Navbar = styled.nav`
   height: 65px;
   padding: 0 1rem;
   align-items: center;
-  background-color: #5a2017;
+  justify-content: center;
+  background-color: #000;
   font-weight: 600;
   font-size: 18px;
   z-index: 999;
