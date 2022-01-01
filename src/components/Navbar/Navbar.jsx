@@ -5,6 +5,8 @@ export const Navbar = styled.nav`
   top: 0;
   color: white;
   width: 100%;
+  max-width: 1440px;
+  margin: 0 auto;
   display: flex;
   height: 65px;
   padding: 0 1rem;
