@@ -18,6 +18,7 @@ const StyledRover = styled.div`
   }
   img {
     padding: 1rem;
+    max-width: 100%;
     border: 1px solid #000;
   }
   .camera {

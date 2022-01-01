@@ -11,7 +11,8 @@ const StyledContainer = styled.div`
   justify-content: center;
   flex-wrap: wrap;
   img {
-    width: 350px;
+    width: 100%;
+    max-width: 350px;
     height: auto;
     display: inline-block;
   }
