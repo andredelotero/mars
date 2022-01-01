@@ -12,8 +12,13 @@ const StyledHeader = styled.div`
   align-items: center;
   justify-content: center;
   h1 {
-    font-size: 100px;
+    font-size: 14vw;
     letter-spacing: 2px;
+  }
+  @media screen and (min-width: 850px) {
+    h1 {
+      font-size: 100px;
+    }
   }
 `;
 
