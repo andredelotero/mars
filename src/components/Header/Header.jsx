@@ -1,4 +1,4 @@
-import mars from "../../img/mars.jpg";
+import mars from "../../img/mars.webp";
 import styled from "styled-components";
 
 const StyledHeader = styled.div`

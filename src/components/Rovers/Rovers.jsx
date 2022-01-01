@@ -1,8 +1,8 @@
 import { Link } from "react-router-dom";
 import styled from "styled-components";
-import curiosity from "../../img/curiosity.jpg";
-import opportunity from "../../img/opportunity.jpg";
-import spirit from "../../img/spirit.jpg";
+import curiosity from "../../img/curiosity.webp";
+import opportunity from "../../img/opportunity.webp";
+import spirit from "../../img/spirit.webp";
 import { Header } from "../Header/Header";
 
 export const Data = [
