@@ -8,4 +8,8 @@ export const StyledFooter = styled.div`
   color: #fff;
   text-align: center;
   padding: 2rem 1rem;
+  p {
+    line-height: 1.6rem;
+    margin: 1.5rem auto;
+  }
 `;

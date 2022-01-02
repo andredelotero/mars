@@ -19,10 +19,11 @@ function App() {
         <Route path="/roverdetail/:name" element={<RoverDetail />} />
       </Routes>
       <StyledFooter>
-        Mars Photos. A project by André Gama del Otero Created in 2022 with
-        React, Styled components and NASA open API "Mars Rover Photos" <br />
-        <br />
-        All photos belong to NASA
+        <p>
+          Mars Photos. A project by André Gama del Otero Created in 2022 with
+          React, Styled components and NASA open API "Mars Rover Photos"
+        </p>
+        <p>All photos belong to NASA</p>
       </StyledFooter>
     </div>
   );
